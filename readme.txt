@@ -7,3 +7,4 @@ try to  back
 test reset 
 try  push to  GitHub
 Creating a new branch is quick.
+Creating a new branch is quick AND simple.
